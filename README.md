@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋  I'm Harshvardhan Patil!
+🎓 I'm a B.Tech CSE (AI) student  
+💻 I love building web apps and ML models 
+🚀 Always open to collaboration and learning new things!
 
-<!--
-**HarshPatil1810/HarshPatil1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript, Bootstrap
+- Python, Java, C++
+- React, Node.js, Express ,MongoDB
+- Firebase, MySQL
+- AWS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Email]- harshvardhanpatil1810@gmail.com
+- [Leetcode]- https://leetcode.com/u/harshvardhanpatil1810/
