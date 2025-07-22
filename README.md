@@ -9,5 +9,3 @@
 - React, Node.js, Express ,MongoDB
 - Firebase, MySQL, AWS
 
-- [Email]- harshvardhanpatil1810@gmail.com
-- [Leetcode]- https://leetcode.com/u/harshvardhanpatil1810/
