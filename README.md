@@ -5,7 +5,7 @@
 
 ## 🛠 Tech Stack
 - HTML, CSS, JavaScript, Bootstrap
-- Python, Java, C++
+- Python, Java, C++ , C# , .net core
 - React, Node.js, Express ,MongoDB
 - Firebase, MySQL, AWS
 
